@@ -1,0 +1,59 @@
+{
+  "name": "reuniteqr",
+  "version": "1.0.0",
+  "description": "A QR-based lost-and-found and family reunification web application.",
+  "author": "Arya Kalbhor",
+  "license": "MIT",
+  "private": true,
+  "keywords": [
+    "reuniteqr",
+    "qr-code",
+    "lost-and-found",
+    "family-reunification",
+    "nextjs",
+    "firebase",
+    "react",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aryakalbhor9983/ReuniteQR.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aryakalbhor9983/ReuniteQR/issues"
+  },
+  "homepage": "https://reuniteqr-web.onrender.com/qr",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "firebase": "^10.0.0",
+    "html5-qrcode": "^2.3.8",
+    "leaflet": "^1.9.4",
+    "next": "14.2.0",
+    "qrcode": "^1.5.3",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "react-leaflet": "^4.2.1"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.12",
+    "@types/node": "^20.0.0",
+    "@types/qrcode": "^1.5.5",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.4.0"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  }
+}
