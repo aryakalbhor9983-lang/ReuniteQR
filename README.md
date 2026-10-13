@@ -67,7 +67,8 @@ ReuniteQR/
 ├── tsconfig.json                # TypeScript configuration
 └── README.md                    # Project documentation
 ```
-<img width="1024" height="572" alt="WhatsApp Image 2026-10-13 at 4 31 06 PM" src="https://github.com/user-attachments/assets/5d4d9a3b-4e21-4d47-a523-8ba7d8fb6c46" />
+<img width="1024" height="488" alt="image" src="https://github.com/user-attachments/assets/f54a6cca-f12a-4232-9a2d-057423e267bc" />
+
 
 
 ## 6. Installation and Setup
